@@ -8,7 +8,7 @@
   <name>chat dev Webapp</name>
   <url>http://maven.apache.org</url>
  <properties>
-  	<springversion>4.3.7.RELEASE</springversion>  
+  	<springversion>5.2.22.RELEASE</springversion>  
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <java.version>1.7</java.version>
   </properties>
